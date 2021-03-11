@@ -242,5 +242,6 @@ const App = {
 }
 
 // Iniciando a aplicação
+
 App.init()
 
